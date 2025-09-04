@@ -21,6 +21,7 @@
 >*For example* - A Washing machine manufacturer would want to determine the average loads that a machine can wash before repair. The parameter is the population mean or average number of washes before repair. 
 A company researcher takes a sample of machines, computes the average number of washes before repair and estimates the population value or parameter by using statistics, which in this case is sample average.
 
+
 **Random Variable** - Contains the outcomes of the chance experiment.
 
 
@@ -80,3 +81,4 @@ Statistical techniques can be categorized into 2 types -
 + Multiple questions in a row should be avoided, each question should have only one answer. If more than one question must be asked, each one should be treated as a separate question to improve question clarity.   
 + Words that need to be emphasised should be emphasised – it aids in making a point and asking a question. Clear alternatives such as good/bad/fair/ average should be quantified using photographs or other means – These are very ambiguous terms, and how they are interpreted varies from person to person.
 + Unwanted assumptions should be avoided. The goal of a survey is to collect factual data, so assumptions should be avoided.
+

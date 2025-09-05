@@ -42,7 +42,6 @@ Once continuous data is measured and recorded, it turns into discrete data as it
 
 The appropriateness of the data analysis depends on the level of the measurement of the data gathered.
 
-
 + Nominal data
 + Ordinal data
 + Interval data
@@ -81,4 +80,5 @@ Statistical techniques can be categorized into 2 types -
 + Multiple questions in a row should be avoided, each question should have only one answer. If more than one question must be asked, each one should be treated as a separate question to improve question clarity.   
 + Words that need to be emphasised should be emphasised – it aids in making a point and asking a question. Clear alternatives such as good/bad/fair/ average should be quantified using photographs or other means – These are very ambiguous terms, and how they are interpreted varies from person to person.
 + Unwanted assumptions should be avoided. The goal of a survey is to collect factual data, so assumptions should be avoided.
+
 

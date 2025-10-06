@@ -14,7 +14,7 @@
 
 **Inferential / Inductive Statistics** -  When a researcher makes a conclusion based on the sample for a group. The use and importance of inferential statistics continue to grow. 
 
-**Parameter** - Descriptive measure of a population is called a parameter. Usually denoted by greek letters.
+**Parameter** - Descriptive measure of a population is called a parameter. Usually denoted by greek letters. 
 
 **Statistic** - Descriptive measure of a sample is called a Statistic.Usually denoted by Roman letters.
 
@@ -79,6 +79,7 @@ Statistical techniques can be categorized into 2 types -
 + Alternatives that are sufficient or adequate should be provided. The available options should contain the most likely answers.  
 + Multiple questions in a row should be avoided, each question should have only one answer. If more than one question must be asked, each one should be treated as a separate question to improve question clarity.   
 + Words that need to be emphasised should be emphasised – it aids in making a point and asking a question. Clear alternatives such as good/bad/fair/ average should be quantified using photographs or other means – These are very ambiguous terms, and how they are interpreted varies from person to person.
-+ Unwanted assumptions should be avoided. The goal of a survey is to collect factual data, so assumptions should be avoided.
++ Unwanted assumptions should be avoided. The goal of a survey is to collect factual data, so assumptions should be avoided. 
+
 
 

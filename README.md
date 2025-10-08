@@ -5,7 +5,6 @@ This repository contains my personal notes on Computational Statistics, organize
 # 🎯 Purpose
 
 These notes are intended for:
-
 Students studying statistics, data science, or computer science.
 Anyone looking to strengthen their fundamentals in computational statistics.
 Quick revision before exams or interviews.
